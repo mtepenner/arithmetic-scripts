@@ -1,12 +1,4 @@
-### About Description
-
-A versatile collection of independent C++ scripts for solving geometry, linear algebra, and polynomial equations. 🚀
-
----
-
-### README.md
-
-# Postgrad Custom Independent Scripts
+# Postgrad Math Scripts
 
 A collection of professional, independent C++ utility scripts designed to solve common mathematical and algebraic problems. This repository serves as a multi-tool for students and developers needing quick, reliable solutions for geometry, matrix operations, and root-finding.
 
