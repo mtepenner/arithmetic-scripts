@@ -1,4 +1,4 @@
-# Postgrad Math Scripts
+# Math Scripts
 
 A collection of professional, independent C++ utility scripts designed to solve common mathematical, chemical, and physical problems. This repository serves as a multi-tool for students and developers, now featuring an integrated LLM parser to solve word problems automatically.
 
